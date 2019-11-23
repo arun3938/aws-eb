@@ -1,7 +1,7 @@
 <?php
-$t = "vishnu,srilatha,shambavi,nishanth,shoum,sunil";
+$t = "arun, manju, sushma, ajit";
 
-if ($t = "vishnu,srilatha,shambavi,nishanth,shoum") {
+if ($t = "null") {
     echo "Have a good day!";
 }
 else
